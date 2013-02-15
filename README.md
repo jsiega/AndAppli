@@ -1,2 +1,3 @@
 AndAppli
 ========
+Android application
